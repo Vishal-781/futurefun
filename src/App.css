@@ -6,6 +6,7 @@
   height: 40vmin;
   pointer-events: none;
   animation: App-logo-spin infinite 1s linear;
+  border-radius: 100%;
 }
 
 

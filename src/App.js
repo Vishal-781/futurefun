@@ -17,7 +17,7 @@ function App() {
         }, [])
         }
         <p style={{ padding: '20px', color: 'Cyan', margin: '100px' }}>
-          Welcome to Future Fun
+          Dhyan se isme apna future dekho. All the best ! 🤞
         </p>
 
         </header>

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/futurefun/static/css/main.a58d1a92.css",
+    "main.css": "/futurefun/static/css/main.87f95639.css",
     "main.js": "/futurefun/static/js/main.9443ca01.js",
     "static/js/453.bca676bd.chunk.js": "/futurefun/static/js/453.bca676bd.chunk.js",
     "static/media/image.png": "/futurefun/static/media/image.eb6017752a48ce3cc505.png",
     "index.html": "/futurefun/index.html",
-    "main.a58d1a92.css.map": "/futurefun/static/css/main.a58d1a92.css.map",
+    "main.87f95639.css.map": "/futurefun/static/css/main.87f95639.css.map",
     "main.9443ca01.js.map": "/futurefun/static/js/main.9443ca01.js.map",
     "453.bca676bd.chunk.js.map": "/futurefun/static/js/453.bca676bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a58d1a92.css",
+    "static/css/main.87f95639.css",
     "static/js/main.9443ca01.js"
   ]
 }
